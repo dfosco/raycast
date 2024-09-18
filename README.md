@@ -1,7 +1,14 @@
 # Raycast Goodies
-Raycast scripts + goodies by @dfosco
+Raycast snippets + goodies by @dfosco
 
-To learn a few basics about Raycast, [check out this discussion first](https://github.com/github/growth-life-cycle/discussions/209) (GitHub Staff only)
+### Initial Setup
+
+Clone this repository locally and add its folder as your Script Directory on Raycast settings:
+
+![alt text](images/image-11.png)
+
+The scripts in this folder should appear in the list:
+![alt text](images/image-12.png)
 
 ### Simple Commands
 
