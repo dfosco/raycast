@@ -1,7 +1,7 @@
 # Raycast Goodies
 Raycast scripts + goodies by @dfosco
 
-To learn a few basics about Raycast, check out this discussion first: https://github.com/github/growth-life-cycle/discussions/209 (GitHub Staff only)
+To learn a few basics about Raycast, [check out this discussion first](https://github.com/github/growth-life-cycle/discussions/209) (GitHub Staff only)
 
 ### Simple Commands
 
