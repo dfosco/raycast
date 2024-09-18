@@ -34,7 +34,6 @@ The output given will not include the actual folder name, so make sure to add it
 /Users/dfosco/Workspace
 </detail>
 
-
 ### Open Repo
 
 Quickly open any local repositories
