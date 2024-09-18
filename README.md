@@ -44,3 +44,7 @@ Quickly open any local repositories
 ### Commit Now
 
 Quickly commit all files in a repository with commit message "Update `repo` @ `date - time`"
+
+![Raycast screenshot of Commit now command](image-7.png)
+
+![Screenshot of git commit message generated: Update raycast @ 09/18/2024 - 16:14](image-8.png)
