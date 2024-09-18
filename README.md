@@ -29,7 +29,7 @@ For when you need to know if a text fits in your design... if you know you know.
 > [!WARNING]  
 > Before you can use these two commands, replace the contents of `_repositories-folder.txt` with the path of the folder where you keep repositories in your Mac
 
-<detail>
+<details>
 <summary>Instructions to get repository folder path</summary>
 
 ![Instruction to Get info on folder](images/image-3.png)
@@ -43,7 +43,7 @@ In this case, the output was `/Users/dfosco` and I added `/Workspace` so the fil
 ```
 /Users/dfosco/Workspace
 ```
-</detail>
+</details>
 
 ### Open Repo in VS Code
 
