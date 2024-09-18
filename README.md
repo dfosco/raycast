@@ -1,7 +1,7 @@
 # Raycast Goodies
 Raycast snippets + goodies by @dfosco
 
-### Initial Setup
+## Initial Setup
 
 Clone this repository locally and add its folder as your Script Directory on Raycast settings:
 
@@ -10,9 +10,9 @@ Clone this repository locally and add its folder as your Script Directory on Ray
 The scripts in this folder should appear in the list:
 ![alt text](images/image-12.png)
 
-### Simple Commands
+## Simple Commands
 
-#### Random Usernames
+### Random Usernames
 
 Add a random username to your clipboard from a list of 100 names. 
 
@@ -23,7 +23,7 @@ Add a random username to your clipboard from a list of 100 names.
 
 ![Random username paulomoreira added](images/image-1.png)
 
-#### Count Characters
+### Count Characters
 
 For when you need to know if a text fits in your design... if you know you know.
 
@@ -31,9 +31,7 @@ For when you need to know if a text fits in your design... if you know you know.
 
 ![Output of character counts: The number of characters is 43](images/image-6.png)
 
----
-
-#### Advanced Commands
+## Advanced Commands
 
 > [!WARNING]  
 > Before you can use these two commands, replace the contents of `_repositories-folder.txt` with the path of the folder where you keep repositories in your Mac
