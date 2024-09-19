@@ -1,5 +1,8 @@
 # Raycast Goodies
+
 Raycast snippets + goodies by @dfosco
+
+For a basic overview, check [this discussion](https://github.com/github/growth-life-cycle/discussions/209) with a basic guide for Raycast (GH-staff only)
 
 ## Initial Setup
 
